@@ -8,6 +8,7 @@ Please us it with head, do not be rage on program, it work´s do not damage that
 
 Info pro uživatele
 
+Apliakce je webová funguje ve webovém prostředí
 spouštění jde přes run.sh
 musíš udělit práva souborům přes příkaz 
 chmod +x example.py
@@ -18,6 +19,8 @@ python3 -m venv venv
 a pak aktivovat venv příkazem:
 
 source venv/bin/activate
+
+
 
 nainstalovat potřebné moduly přes pip3 install example ....
 
