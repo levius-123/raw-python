@@ -23,4 +23,7 @@ nainstalovat potřebné moduly přes pip3 install example ....
 
 vše poznáš po pokusu o spuštění souboru pythonu
 
+PROGRAM JE TVOŘEN NA PLATFORMĚ DEBIANU NA TO BER OHLED
+
+
 V pžípadě poruchy, a nefunkčnosti kontaktujete mne na mojem discord účtě: levius_123#3574
