@@ -13,6 +13,7 @@ spouštění jde přes run.sh
 musíš udělit práva souborům přes příkaz 
 chmod +x example.py
 musíš vytvořit venv příkazem:
+musíš si poměnit cesty directory v souborech hlavně run.sh bo ti to nepojede
 
 python3 -m venv venv
 
